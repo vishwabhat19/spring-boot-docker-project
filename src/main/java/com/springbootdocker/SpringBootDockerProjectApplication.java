@@ -12,7 +12,7 @@ public class SpringBootDockerProjectApplication
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Welcome from the Dockerized Springboot Application!!";
+		return "Welcome from the Dockerized Springboot Application.wohoooo!!";
 	}
 
 	public static void main(String[] args)
